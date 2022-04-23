@@ -16,6 +16,9 @@ For the figure recreation we take the slope in 2/3 and to the perpendiculars we 
 ## Result
 The figure was plotted in Jupyter Notebook. 
 
+![Alt text](https://github.com/LuisAaronNietoCruz/Exam_1/blob/main/Grafica.png 'Grafica')
+
+
 ## Use Tools
 - [Python](https://www.python.org/).
 - [NumPY](https://numpy.org//).
